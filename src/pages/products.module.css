@@ -1,0 +1,21 @@
+.item {
+    float: left;
+    display: block;
+    padding: 2em;
+    width: 33%;
+    text-align: center;
+}
+
+.itemsList {
+    list-style-type: none;
+}
+
+.figCaption {
+    text-align: center;
+}
+
+.image {
+    border: solid 1px rebeccapurple;
+    border-radius: 50%;
+    padding: 1em;
+}
